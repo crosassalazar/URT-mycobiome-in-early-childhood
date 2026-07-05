@@ -1,0 +1,20 @@
+"variable","label","class","n_nonmissing","n_missing","pct_missing","coding","levels"
+"blindid","Unique sample identifier","character",361,0,0,NA,NA
+"enrollageinweeks_dev","Age at enrollment (weeks)","numeric",361,0,0,NA,NA
+"efgestagewk","Gestational age (weeks)","numeric",361,0,0,NA,NA
+"birthWgtGm_dev","Birth weight (grams)","numeric",361,0,0,NA,NA
+"age_sample","Age at sample collection (years)","numeric",361,0,0,NA,NA
+"efsex","Male sex","character",361,0,0,NA,"female, male"
+"race_white_dev","Non-Hispanic White","integer",361,0,0,"0 = No; 1 = Yes",NA
+"efdelivery","Mode of delivery","integer",361,0,0,"1 = C-section; 2 = Vaginal",NA
+"any_breastfd_dev","Any breastfeeding","integer",361,0,0,"0 = No; 1 = Yes",NA
+"mat_asthma_dev","Maternal asthma","integer",361,0,0,"0 = No; 1 = Yes",NA
+"young_sib_dev","Presence of household siblings ages 6 years or younger at birth","integer",361,0,0,"0 = No; 1 = Yes",NA
+"early_life_anti_dev","Exposure to antibiotics in utero or during early infancy","integer",361,0,0,"0 = No; 1 = Yes",NA
+"early_life_smoke_dev","Exposure to tobacco smoke in utero or during early infancy","integer",361,0,0,"0 = No; 1 = Yes",NA
+"insurance_dev","Private insurance during early infancy","character",361,0,0,NA,"Federal or state insurance, Other or unknown, Private insurance"
+"petany_dev","Pet ownership during early infancy","integer",361,0,0,"0 = No; 1 = Yes",NA
+"efrural_dev","Rural residence during early infancy","integer",360,1,0.3,"0 = No; 1 = Yes",NA
+"any_lrti_dev","History of lower respiratory tract infection in the first year of life","integer",358,3,0.8,"0 = No; 1 = Yes",NA
+"mold_dev","Residential mold damage during early infancy","integer",361,0,0,"0 = No; 1 = Yes",NA
+"season_collection","Season of sample collection","character",361,0,0,NA,"Fall, Spring, Summer, Winter"
