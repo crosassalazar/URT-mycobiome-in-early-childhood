@@ -1,4 +1,4 @@
-# URT MYCOBIOME IN EARLY CHILDHOOD
+# URT Mycobiome in Early Childhood
 
 This repository contains the datasets and statistical analysis scripts used in the publication titled *"Taxonomy, Determinants, and Potential Interactions of the Upper Respiratory Tract Mycobiome in Early Childhood."*
 
